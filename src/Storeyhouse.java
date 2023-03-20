@@ -1,2 +1,3 @@
-public class Storeyhouse {
+public class Storeyhouse extends House{
+
 }

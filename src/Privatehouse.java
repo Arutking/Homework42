@@ -1,2 +1,2 @@
-public class Privatehouse {
+public class Privatehouse extends House{
 }
